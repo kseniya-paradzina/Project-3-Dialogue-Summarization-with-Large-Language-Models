@@ -114,4 +114,9 @@ This experiment highlights how summarization errors can propagate into downstrea
 
 This project demonstrates a complete and realistic dialogue summarization pipeline, combining model development, evaluation, error analysis, and system-level integration. While not state-of-the-art, it provides valuable insights into the challenges of abstractive summarization and LLM-based system design under real-world constraints.
 
+___ 
+
+## Author: Kseniya Paradzina  
+## Course: Large Language Models  
+
 
