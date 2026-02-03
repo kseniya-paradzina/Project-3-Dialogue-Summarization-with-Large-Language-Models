@@ -116,7 +116,7 @@ This project demonstrates a complete and realistic dialogue summarization pipeli
 
 ___ 
 
-## Author: Kseniya Paradzina  
-## Course: Large Language Models  
+## 👩‍💻 Author
 
-
+**Kseniya Paradzina**  
+**Course:** Large Language Models
