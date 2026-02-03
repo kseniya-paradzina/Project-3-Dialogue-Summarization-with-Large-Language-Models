@@ -27,6 +27,12 @@ Beyond summarization, we demonstrate how model-generated summaries can be used a
 
 ---
 
+## How to run
+1. Open the notebook in Google Colab
+2. Install dependencies
+3. Run all cells top to bottom
+___
+
 ## ⚙️ Training Setup
 
 - Framework: HuggingFace Transformers
