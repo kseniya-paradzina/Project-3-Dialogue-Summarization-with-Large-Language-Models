@@ -55,9 +55,9 @@ We evaluate model performance using multiple complementary approaches:
 
 ### Official ROUGE Results (F1)
 ```
-ROUGE-1: 0.1443
+ROUGE-1: 0.1483
 ROUGE-2: 0.0153
-ROUGE-L: 0.1127
+ROUGE-L: 0.1104
 ```
 ---
 
